@@ -1,3 +1,4 @@
+#! /bin/bash
 yum install -y wget curl net-tools unzip vim expect*
 mkdir down;cd down
 unzip master;cd file-master
